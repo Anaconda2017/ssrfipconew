@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /en/
+
+Sitemap: https://fpico.org/sitemap.xml
